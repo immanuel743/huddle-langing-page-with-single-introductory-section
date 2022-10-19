@@ -44,13 +44,15 @@ the page is. If it's very long, it might be best to crop it.
 
 ## My process
 
+i took the mobile first approach when design the site
+
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
-- Mobile-first workflow
+- Mobile-first workflow -SASS -Animations
 
 *
 
@@ -58,9 +60,7 @@ the page is. If it's very long, it might be best to crop it.
 
 ### Continued development
 
-### Useful resources
-
--
+nothing for now
 
 ## Author
 
