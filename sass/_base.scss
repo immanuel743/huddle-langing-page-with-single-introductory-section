@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  @media screen and(min-width:47.8em) {
+    font-size: 75%;
+  }
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
